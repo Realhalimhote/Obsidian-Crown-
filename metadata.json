@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Crown: Idle Kingdom RPG",
+  "description": "An offline medieval warlord skilling and kingdom-strategy idle RPG with 5-squad automation, seasonal holiday events, gear fusion, and stronghold management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
